@@ -1,0 +1,4 @@
+/exp/dataset/Cityscape/LocGlb_Edge_Bbox/val_new_depth/munster_000117_000019
+/exp/dataset/Cityscape/LocGlb_Edge_Bbox/val_new_depth/frankfurt_000001_069633
+/exp/dataset/Cityscape/LocGlb_Edge_Bbox/val_new_depth/frankfurt_000001_075296
+/exp/dataset/Cityscape/LocGlb_Edge_Bbox/val_new_depth/munster_000086_000019
