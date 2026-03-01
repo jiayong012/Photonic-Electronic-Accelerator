@@ -124,3 +124,7 @@ Each module will output its results in the terminal or store results in the corr
 ## 📄 License
 
 This project is open source and released under the **MIT License**.
+
+## 🔄 Update
+
+Feb. 2026: We have updated the **video module**, including: data samples in `video/data/`; pre-trained model weights in `video/segmentation/ckpt/` and `video/understanding/ckpt/`. These updates are to match the **cross-validation experimental protocol** in the revised manuscript. No additional configuration is required. Users can directly follow the original execution instructions.
