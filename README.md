@@ -59,7 +59,7 @@ cd Photonic-Electronic-Accelerator
 │       ├── xxx.so
 │       └── run.py
 ├── run_all.sh  # script to run all modules sequentially
-├── source_code.zip
+├── code.zip
 └── README.md
 ```
 
